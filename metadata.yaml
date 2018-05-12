@@ -1,0 +1,38 @@
+_repo: Jewish-Fairy-Tales-and-Legends_26711
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Aronson, Sol
+    gutenberg_agent_id: '32198'
+    url: http://www.gutenberg.org/2009/agents/32198
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Landa, Gertrude
+    alias: Aunt Naomi
+    gutenberg_agent_id: '32196'
+    url: http://www.gutenberg.org/2009/agents/32196
+description: ''
+gutenberg_issued: '2008-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26711'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fairy tales'
+- !lcc 'PZ'
+tableOfContents: The palace of the eagles -- The giant of the flood -- The fairy princess
+  of Ergetz -- The higgledy-piggledy palace -- The red slipper -- The star child --
+  Abi Fressah's feast -- The beggar king -- The quarrel of the cat and dog -- The
+  water-babe -- Sinbad of the Talmud -- The outcast prince -- The story of Bostanai
+  -- From shepherd-boy to king -- The magic palace -- The sleep of one hundred years
+  -- King for three days -- The palace in the clouds -- The Pope's game of chess --
+  The slave's fortune -- The paradise in the sea -- The Rabbi's bogey-man -- The fairy
+  frog -- The princess of the tower -- King Alexander's adventures.
+title: Jewish Fairy Tales and Legends
+url: http://www.gutenberg.org/ebooks/26711
